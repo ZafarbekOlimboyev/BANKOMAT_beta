@@ -1,2 +1,2 @@
 # BANKOMAT_beta
-BANKOMAT( ATM )
+Assalomu Alaykum bu yerga Bankomatning orqa foni ya`ni beckend qismini pythonda yozganimni tashaganman.
